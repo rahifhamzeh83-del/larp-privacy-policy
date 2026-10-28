@@ -1,1 +1,61 @@
-# larp-privacy-policy
+# larp-privacy-<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LARP Utilities Privacy Policy</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  line-height: 1.7;
+  color: #222;
+}
+h1, h2 { color: #0795c2; }
+</style>
+</head>
+<body>
+
+<h1>LARP Utilities Privacy Policy</h1>
+<p>Last updated: October 28, 2026</p>
+
+<p>This policy explains how LARP Utilities, a Discord bot for Los Angeles Roleplay (LARP), may process information when users interact with it.</p>
+
+<h2>1. Information Collected</h2>
+<p>The bot may process Discord user IDs, server IDs, channel IDs, role IDs, command inputs, and session or voting information to provide its features. Technical information may also be processed to troubleshoot errors.</p>
+
+<h2>2. How Information Is Used</h2>
+<p>Information is used to operate bot commands, manage roleplay sessions and votes, maintain server settings, troubleshoot errors, and prevent misuse.</p>
+
+<h2>3. Data Storage and Retention</h2>
+<p>Depending on the enabled features, information may be processed temporarily or stored in databases and hosting services. Information should be kept only as long as necessary and deleted when no longer needed.</p>
+
+<h2>4. Sharing</h2>
+<p>LARP Utilities does not intend to sell personal information. Information may be processed by Discord and the services used to host the bot. Information may also be disclosed when legally required.</p>
+
+<h2>5. Third-Party Services</h2>
+<p>Your use of Discord is subject to its own policies:</p>
+<ul>
+<li><a href="https://discord.com/privacy">Discord Privacy Policy</a></li>
+<li><a href="https://discord.com/terms">Discord Terms of Service</a></li>
+</ul>
+
+<h2>6. Security</h2>
+<p>Reasonable measures should be used to protect stored information and bot credentials. No online service can guarantee absolute security.</p>
+
+<h2>7. Privacy Requests</h2>
+<p>For questions or requests to access or delete information controlled by the bot owner, contact the LARP Utilities owner through the official LARP Discord community.</p>
+
+<h2>8. Children's Privacy</h2>
+<p>The bot is intended for users who meet Discord's minimum age requirements and applicable legal requirements.</p>
+
+<h2>9. Policy Changes</h2>
+<p>This policy may be updated when the bot's features or data practices change.</p>
+
+<h2>10. Contact</h2>
+<p>Contact the LARP Utilities owner through the official LARP Discord community for privacy questions.</p>
+
+</body>
+</html>
